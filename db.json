@@ -34,11 +34,11 @@
         },
         {
           "id": 5,
-          "name": "Mama's Pasta",
-          "description": "Homemade Italian pasta dishes",
-          "contact": "555-777-8888",
-          "address": "321 Olive Ave",
-          "image": "https://www.thelantern.com/files/2018/08/IMG_4365-1oifhsz.jpeg"
+          "name": "Seafood Cove",
+          "description": "Fresh seafood with a coastal vibe",
+          "contact": "555-777-2222",
+          "address": "987 Beach Blvd",
+          "image": "https://popmenucloud.com/cdn-cgi/image/width%3D1200%2Cheight%3D1200%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/uloidfmk/2f32a163-d2c8-4450-9018-6de62cd7ab91.jpg"
         },
         {
             "id": 6,
@@ -63,38 +63,6 @@
             "contact": "555-444-5555",
             "address": "321 Saffron Ave",
             "image": "https://i.ytimg.com/vi/QUjDCSwmkdg/maxresdefault.jpg"
-          },
-          {
-            "id": 9,
-            "name": "Steakhouse Grill",
-            "description": "Juicy steaks cooked to perfection",
-            "contact": "555-666-7777",
-            "address": "987 Grill Rd",
-            "image": "https://media-cdn.tripadvisor.com/media/photo-s/0c/dd/9d/51/entree-restaurant.jpg"
-          },
-          {
-            "id": 10,
-            "name": "Dim Sum House",
-            "description": "Authentic Chinese dim sum",
-            "contact": "555-444-6666",
-            "address": "321 Bamboo Rd",
-            "image": "https://wp.dailybruin.com/images/2019/04/web.ae_.dimsum.ADX_.jpg"
-          },
-          {
-            "id": 11,
-            "name": "Seafood Cove",
-            "description": "Fresh seafood with a coastal vibe",
-            "contact": "555-777-2222",
-            "address": "987 Beach Blvd",
-            "image": "https://popmenucloud.com/cdn-cgi/image/width%3D1200%2Cheight%3D1200%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/uloidfmk/2f32a163-d2c8-4450-9018-6de62cd7ab91.jpg"
-          },
-          {
-            "id": 24,
-            "name": "All-American Diner",
-            "description": "Classic diner fare with a twist",
-            "contact": "555-444-3333",
-            "address": "321 Route 66",
-            "image": "https://s3.mortarr.com/images/project_gallery_images/howard-kulp-architects-firepoint-grill-exterior-design-1920x1920.jpeg"
           }
     ],
   
