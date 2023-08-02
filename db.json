@@ -42,137 +42,207 @@
         },
         {
             "id": 6,
-            "name": "Burger Barn",
-            "contact": "contact@burgerbarn.com"
-        },
-        {
+            "name": "Taco Time",
+            "description": "Authentic Mexican street tacos",
+            "contact": "555-222-1111",
+            "address": "987 Maple Rd",
+            "image": "https://takesurvey.onl/wp-content/uploads/2019/11/Taco-Time-Survey-1.jpg"
+          },
+          {
             "id": 7,
-            "name": "Pasta Palace",
-            "contact": "hello@pastapalace.com"
-        },
-        {
+            "name": "Pho Heaven",
+            "description": "Traditional Vietnamese pho dishes",
+            "contact": "555-222-3333",
+            "address": "789 Cherry Lane",
+            "image": "https://media-cdn.tripadvisor.com/media/photo-s/06/46/60/44/entrance-of-pho-hao.jpg"
+          },
+          {
             "id": 8,
-            "name": "Sushi Samba",
-            "contact": "info@sushisamba.com"
-        },
-        {
+            "name": "Tandoori Nights",
+            "description": "Delicious tandoori specialties",
+            "contact": "555-444-5555",
+            "address": "321 Saffron Ave",
+            "image": "https://i.ytimg.com/vi/QUjDCSwmkdg/maxresdefault.jpg"
+          },
+          {
             "id": 9,
-            "name": "Mexican Fiesta",
-            "contact": "contact@mexicanfiesta.com"
-        },
-        {
+            "name": "Steakhouse Grill",
+            "description": "Juicy steaks cooked to perfection",
+            "contact": "555-666-7777",
+            "address": "987 Grill Rd",
+            "image": "https://media-cdn.tripadvisor.com/media/photo-s/0c/dd/9d/51/entree-restaurant.jpg"
+          },
+          {
             "id": 10,
-            "name": "Indian Delight",
-            "contact": "hello@indiandelight.com"
-        }
+            "name": "Dim Sum House",
+            "description": "Authentic Chinese dim sum",
+            "contact": "555-444-6666",
+            "address": "321 Bamboo Rd",
+            "image": "https://wp.dailybruin.com/images/2019/04/web.ae_.dimsum.ADX_.jpg"
+          },
+          {
+            "id": 11,
+            "name": "Seafood Cove",
+            "description": "Fresh seafood with a coastal vibe",
+            "contact": "555-777-2222",
+            "address": "987 Beach Blvd",
+            "image": "https://popmenucloud.com/cdn-cgi/image/width%3D1200%2Cheight%3D1200%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/uloidfmk/2f32a163-d2c8-4450-9018-6de62cd7ab91.jpg"
+          },
+          {
+            "id": 24,
+            "name": "All-American Diner",
+            "description": "Classic diner fare with a twist",
+            "contact": "555-444-3333",
+            "address": "321 Route 66",
+            "image": "https://s3.mortarr.com/images/project_gallery_images/howard-kulp-architects-firepoint-grill-exterior-design-1920x1920.jpeg"
+          }
     ],
   
     "food": [
         {
             "id": 1,
             "food": "Pizza Margherita",
+            "description": "A slice of pure culinary bliss! Freshly baked thin crust, tangy tomato sauce, creamy mozzarella, and aromatic basil leaves.",
             "price": 10.99,
             "restaurant_id": 1,
-            "image":"https://www.giallozafferano.com/images/228-22845/Neapolitan-pizza_450x300.jpg"
+            "image": "https://www.giallozafferano.com/images/228-22845/Neapolitan-pizza_450x300.jpg"
         },
         {
             "id": 2,
             "food": "Chicken Tikka Masala",
+            "description": "Exotic flavors of India! Tender, marinated chicken tikka immersed in a luscious, spiced tomato and cream sauce.",
             "price": 12.49,
-            "restaurant_id": 2,
-            "image":"https://www.seriouseats.com/thmb/DbQHUK2yNCALBnZE-H1M2AKLkok=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/chicken-tikka-masala-for-the-grill-recipe-hero-2_1-cb493f49e30140efbffec162d5f2d1d7.JPG"
+            "restaurant_id": 1,
+            "image": "https://www.seriouseats.com/thmb/DbQHUK2yNCALBnZE-H1M2AKLkok=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/chicken-tikka-masala-for-the-grill-recipe-hero-2_1-cb493f49e30140efbffec162d5f2d1d7.JPG"
         },
         {
             "id": 3,
             "food": "Steakhouse Burger",
+            "description": "Carnivore's dream come true! Juicy, flame-grilled beef patty topped with smoky bacon, melted cheese, fresh veggies, and secret sauce.",
             "price": 8.99,
-            "restaurant_id": 6,
-            "image":"https://media.blueapron.com/recipes/27009/square_newsletter_images/1629222102-28-0030-9002/0920_2P19_SteakHouse-Burger_214_1_SQ_Web.jpg?quality=80&width=850&format=p.jpg"
+            "restaurant_id": 1,
+            "image": "https://media.blueapron.com/recipes/27009/square_newsletter_images/1629222102-28-0030-9002/0920_2P19_SteakHouse-Burger_214_1_SQ_Web.jpg?quality=80&width=850&format=p.jpg"
         },
         {
             "id": 4,
             "food": "Sushi Combo",
+            "description": "A masterful journey through Japan! Exquisite assortment of fresh sashimi and flavorful sushi rolls. Each bite is a work of art!",
             "price": 22.99,
-            "restaurant_id": 8,
-            "image":"https://sushibymatsu.com/wp-content/uploads/2017/12/sushi-sashimi-combo.jpg"
+            "restaurant_id": 1,
+            "image": "https://sushibymatsu.com/wp-content/uploads/2017/12/sushi-sashimi-combo.jpg"
         },
         {
             "id": 5,
             "food": "Enchiladas",
+            "description": "A fiesta of flavors! Soft corn tortillas enveloping succulent shredded chicken, zesty enchilada sauce, and melted cheese.",
             "price": 9.95,
-            "restaurant_id": 9,
-            "image":"https://www.eatingbirdfood.com/wp-content/uploads/2020/01/healthy-chicken-enchiladas-2.jpg"
+            "restaurant_id": 1,
+            "image": "https://www.eatingbirdfood.com/wp-content/uploads/2020/01/healthy-chicken-enchiladas-2.jpg"
         },
         {
             "id": 6,
             "food": "Chicken Alfredo",
+            "description": "Creamy indulgence! Tender chicken tossed with al dente fettuccine in a velvety, garlic-infused Alfredo sauce.",
             "price": 14.75,
-            "restaurant_id": 7,
-            "image":"https://www.budgetbytes.com/wp-content/uploads/2022/07/Chicken-Alfredo-bowl.jpg"
+            "restaurant_id": 1,
+            "image": "https://www.budgetbytes.com/wp-content/uploads/2022/07/Chicken-Alfredo-bowl.jpg"
         },
         {
             "id": 7,
             "food": "Butter Chicken",
+            "description": "A taste of India's finest! Succulent pieces of chicken cooked in a rich, aromatic tomato and butter-based gravy.",
             "price": 13.99,
-            "restaurant_id": 3,
-            "image":"https://masalaandchai.com/wp-content/uploads/2022/03/Butter-Chicken-500x375.jpg"
+            "restaurant_id": 1,
+            "image": "https://masalaandchai.com/wp-content/uploads/2022/03/Butter-Chicken-500x375.jpg"
         },
         {
             "id": 8,
             "food": "Pepperoni Pizza",
+            "description": "Classic delight! Satisfy your cravings with gooey mozzarella, zesty tomato sauce, and generous pepperoni toppings on our crispy crust.",
             "price": 12.99,
-            "restaurant_id": 5,
-            "image":"https://sipbitego.com/wp-content/uploads/2021/08/Pepperoni-Pizza-Recipe-Sip-Bite-Go.jpg"
+            "restaurant_id": 1,
+            "image": "https://sipbitego.com/wp-content/uploads/2021/08/Pepperoni-Pizza-Recipe-Sip-Bite-Go.jpg"
         },
         {
             "id": 9,
             "food": "Quesadillas",
+            "description": "Cheesy perfection! Flour tortillas filled with mouthwatering grilled chicken and oozy melted cheese. A Tex-Mex favorite!",
             "price": 7.99,
-            "restaurant_id": 9,
-            "image":"https://recipetineats.com/wp-content/uploads/2018/06/Quesadillas_4.jpg"
+            "restaurant_id": 1,
+            "image": "https://recipetineats.com/wp-content/uploads/2018/06/Quesadillas_4.jpg"
         },
         {
             "id": 10,
             "food": "Tempura Roll",
+            "description": "Japanese delicacy! Crispy tempura shrimp and fresh veggies rolled in soft sushi rice and nori. A delightful fusion of flavors!",
             "price": 18.50,
-            "restaurant_id": 8,
-            "image":"https://norecipes.com/wp-content/uploads/2022/02/shrimp-tempura-roll-004.jpg"
+            "restaurant_id": 1,
+            "image": "https://norecipes.com/wp-content/uploads/2022/02/shrimp-tempura-roll-004.jpg"
         },
         {
             "id": 11,
             "food": "Spanakopita",
+            "description": "Mediterranean goodness! Flaky phyllo pastry filled with savory spinach, feta cheese, and aromatic herbs. A taste of Greece!",
             "price": 9.25,
-            "restaurant_id": 11,
-            "image":"https://www.365daysofbakingandmore.com/wp-content/uploads/2015/11/Spanakopita-1.jpg"
+            "restaurant_id": 1,
+            "image": "https://www.365daysofbakingandmore.com/wp-content/uploads/2015/11/Spanakopita-1.jpg"
         },
         {
             "id": 12,
             "food": "Pad Thai",
+            "description": "Thai street food delight! Stir-fried rice noodles with succulent shrimp, tofu, crushed peanuts, and a burst of tangy flavors.",
             "price": 11.99,
-            "restaurant_id": 12,
-            "image":"https://tastesbetterfromscratch.com/wp-content/uploads/2018/08/Pad-Thai-Web-7.jpg"
+            "restaurant_id": 1,
+            "image": "https://tastesbetterfromscratch.com/wp-content/uploads/2018/08/Pad-Thai-Web-7.jpg"
         },
         {
             "id": 13,
             "food": "Croissant",
+            "description": "French flakiness! Golden-brown, buttery layers with a soft, airy interior. The perfect companion to your morning coffee.",
             "price": 3.75,
-            "restaurant_id": 13,
-            "image":"https://breadsandsweets.com/wp-content/uploads/2021/08/croissant-pic-4.jpg"
+            "restaurant_id": 1,
+            "image": "https://breadsandsweets.com/wp-content/uploads/2021/08/croissant-pic-4.jpg"
         },
         {
             "id": 14,
             "food": "Bulgogi",
+            "description": "Korean barbecue delight! Tender, marinated slices of beef grilled to perfection, bursting with sweet and savory flavors.",
             "price": 14.50,
-            "restaurant_id": 14,
-            "image":"https://s23209.pcdn.co/wp-content/uploads/2019/04/Korean-Beef-BulgogiIMG_9246.jpg"
+            "restaurant_id": 1,
+            "image": "https://s23209.pcdn.co/wp-content/uploads/2019/04/Korean-Beef-BulgogiIMG_9246.jpg"
         },
         {
             "id": 15,
             "food": "Grilled Shrimp",
+            "description": "Seafood heaven! Succulent shrimp seasoned and grilled to smoky perfection, served with a zesty dipping sauce.",
             "price": 16.99,
-            "restaurant_id": 15,
-            "image":"https://hips.hearstapps.com/hmg-prod/images/grilled-shrimp-vertical-1528757549.jpg"
-        }
+            "restaurant_id": 1,
+            "image": "https://hips.hearstapps.com/hmg-prod/images/grilled-shrimp-vertical-1528757549.jpg"
+        },
+        {
+            "id": 16,
+            "food": "Chicken Shawarma",
+            "description": "Succulent chicken shawarma",
+            "price": 10.99,
+            "restaurant_id": 1,
+            "image": "https://www.licious.in/blog/wp-content/uploads/2022/06/shutterstock_1339636625-1.jpg"
+          },
+          {
+            "id": 17,
+            "food": "Greek Moussaka",
+            "description": "Classic Greek moussaka casserole",
+            "price": 13.99,
+            "restaurant_id": 1,
+            "image": "https://www.mygreekdish.com/wp-content/uploads/2013/05/Moussaka-recipe-Traditional-Greek-Moussaka-with-Eggplants.jpg"
+          },
+          {
+            "id": 18,
+            "food": "Chocolate Lava Cake",
+            "description": "Warm chocolate cake with molten center",
+            "price": 6.99,
+            "restaurant_id": 1,
+            "image": "https://www.allrecipes.com/thmb/J0D_WQYOGJs3PpuDqqconBr0efI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7272577-67dd531d7b4a48dbb254dcdaafa658d4.jpg"
+          }
     ],
     
     "orders": [
