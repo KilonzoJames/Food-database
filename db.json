@@ -1,69 +1,61 @@
 {
-    "restaurant": [
+  "restaurant": [
         {
-          "id": 1,
-          "name": "Saffron Indian Cuisine",
-          "description": "Authentic North Indian cuisine",
-          "contact": "555-123-4567",
-          "address": "123 Main St",
-          "image": "https://thefridaylunch.files.wordpress.com/2010/11/img_4579.jpg"
-        },
-        {
-          "id": 2,
-          "name": "Pizza Planet",
-          "description": "Gourmet pizzas baked in a wood-fired oven",
-          "contact": "555-987-6543",
-          "address": "456 Pine Rd",
-          "image": "https://assets.teenvogue.com/photos/5abce80b6d36ed4396878521/1:1/w_1278,h_1278,c_limit/pizza-planet-opening-in-disneyland.jpg"
-        },
-        {
-          "id": 3,
-          "name": "Sushi Delight",
-          "description": "Fresh and delicious sushi rolls",
-          "contact": "555-111-2222",
-          "address": "789 Oak Ave",
-          "image": "https://www.otara.co.nz/wp-content/uploads/2020/04/Sushi-Delight-500x375.jpg"
-        },
-        {
-          "id": 4,
-          "name": "Burger Bistro",
-          "description": "Gourmet burgers with a variety of toppings",
-          "contact": "555-444-3333",
-          "address": "567 Elm St",
-          "image": "https://static.wixstatic.com/media/dfdfac_adc2a94434294af68c2635abc31ca9d2~mv2.png/v1/fill/w_302,h_194,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/dfdfac_adc2a94434294af68c2635abc31ca9d2~mv2.png"
-        },
-        {
-          "id": 5,
-          "name": "Seafood Cove",
-          "description": "Fresh seafood with a coastal vibe",
-          "contact": "555-777-2222",
-          "address": "987 Beach Blvd",
-          "image": "https://popmenucloud.com/cdn-cgi/image/width%3D1200%2Cheight%3D1200%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/uloidfmk/2f32a163-d2c8-4450-9018-6de62cd7ab91.jpg"
-        },
-        {
+            "id": 1,
+            "name": "Saffron Indian Cuisine",
+            "description": "Authentic North Indian cuisine",
+            "contact": "555-123-4567",
+            "image": "https://thefridaylunch.files.wordpress.com/2010/11/img_4579.jpg"
+        },  
+        { 
+            "id": 2,
+            "name": "Pizza Planet",
+            "description": "Gourmet pizzas baked in a wood-fired oven",
+            "contact": "555-987-6543",
+            "image": "https://assets.teenvogue.com/photos/5abce80b6d36ed4396878521/1:1/w_1278,h_1278,c_limit/pizza-planet-opening-in-disneyland.jpg"
+        },  
+        { 
+            "id": 3,
+            "name": "Sushi Delight",
+            "description": "Fresh and delicious sushi rolls",
+            "contact": "555-111-2222",
+            "image": "https://www.otara.co.nz/wp-content/uploads/2020/04/Sushi-Delight-500x375.jpg"
+        },  
+        { 
+            "id": 4,
+            "name": "Burger Bistro",
+            "description": "Gourmet burgers with a variety of toppings",
+            "contact": "555-444-3333",
+            "image": "https://static.wixstatic.com/media/dfdfac_adc2a94434294af68c2635abc31ca9d2~mv2.png/v1/fill/w_302,h_194,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/dfdfac_adc2a94434294af68c2635abc31ca9d2~mv2.png"
+        },  
+        { 
+            "id": 5,
+            "name": "Seafood Cove",
+            "description": "Fresh seafood with a coastal vibe",
+            "contact": "555-777-2222",
+            "image": "https://popmenucloud.com/cdn-cgi/image/width%3D1200%2Cheight%3D1200%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/uloidfmk/2f32a163-d2c8-4450-9018-6de62cd7ab91.jpg"
+        },  
+        { 
             "id": 6,
             "name": "Taco Time",
             "description": "Authentic Mexican street tacos",
             "contact": "555-222-1111",
-            "address": "987 Maple Rd",
             "image": "https://takesurvey.onl/wp-content/uploads/2019/11/Taco-Time-Survey-1.jpg"
-          },
-          {
+        },  
+        { 
             "id": 7,
             "name": "Pho Heaven",
             "description": "Traditional Vietnamese pho dishes",
             "contact": "555-222-3333",
-            "address": "789 Cherry Lane",
             "image": "https://media-cdn.tripadvisor.com/media/photo-s/06/46/60/44/entrance-of-pho-hao.jpg"
-          },
-          {
+        },  
+        { 
             "id": 8,
             "name": "Tandoori Nights",
             "description": "Delicious tandoori specialties",
             "contact": "555-444-5555",
-            "address": "321 Saffron Ave",
             "image": "https://i.ytimg.com/vi/QUjDCSwmkdg/maxresdefault.jpg"
-          }
+        }
     ],
   
     "food": [
@@ -149,14 +141,6 @@
         },
         {
             "id": 11,
-            "food": "Spanakopita",
-            "description": "Mediterranean goodness! Flaky phyllo pastry filled with savory spinach, feta cheese, and aromatic herbs. A taste of Greece!",
-            "price": 9.25,
-            "restaurant_id": 1,
-            "image": "https://www.365daysofbakingandmore.com/wp-content/uploads/2015/11/Spanakopita-1.jpg"
-        },
-        {
-            "id": 12,
             "food": "Pad Thai",
             "description": "Thai street food delight! Stir-fried rice noodles with succulent shrimp, tofu, crushed peanuts, and a burst of tangy flavors.",
             "price": 11.99,
@@ -164,15 +148,7 @@
             "image": "https://tastesbetterfromscratch.com/wp-content/uploads/2018/08/Pad-Thai-Web-7.jpg"
         },
         {
-            "id": 13,
-            "food": "Croissant",
-            "description": "French flakiness! Golden-brown, buttery layers with a soft, airy interior. The perfect companion to your morning coffee.",
-            "price": 3.75,
-            "restaurant_id": 1,
-            "image": "https://breadsandsweets.com/wp-content/uploads/2021/08/croissant-pic-4.jpg"
-        },
-        {
-            "id": 14,
+            "id": 12,
             "food": "Grilled Shrimp",
             "description": "Seafood heaven! Succulent shrimp seasoned and grilled to smoky perfection, served with a zesty dipping sauce.",
             "price": 16.99,
@@ -180,7 +156,7 @@
             "image": "https://hips.hearstapps.com/hmg-prod/images/grilled-shrimp-vertical-1528757549.jpg"
         },
         {
-            "id": 15,
+            "id": 13,
             "food": "Chicken Shawarma",
             "description": "Succulent chicken shawarma",
             "price": 10.99,
@@ -188,7 +164,7 @@
             "image": "https://www.licious.in/blog/wp-content/uploads/2022/06/shutterstock_1339636625-1.jpg"
           },
           {
-            "id": 16,
+            "id": 14,
             "food": "Greek Moussaka",
             "description": "Classic Greek moussaka casserole",
             "price": 13.99,
