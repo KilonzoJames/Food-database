@@ -173,14 +173,6 @@
         },
         {
             "id": 14,
-            "food": "Bulgogi",
-            "description": "Korean barbecue delight! Tender, marinated slices of beef grilled to perfection, bursting with sweet and savory flavors.",
-            "price": 14.50,
-            "restaurant_id": 1,
-            "image": "https://s23209.pcdn.co/wp-content/uploads/2019/04/Korean-Beef-BulgogiIMG_9246.jpg"
-        },
-        {
-            "id": 15,
             "food": "Grilled Shrimp",
             "description": "Seafood heaven! Succulent shrimp seasoned and grilled to smoky perfection, served with a zesty dipping sauce.",
             "price": 16.99,
@@ -188,7 +180,7 @@
             "image": "https://hips.hearstapps.com/hmg-prod/images/grilled-shrimp-vertical-1528757549.jpg"
         },
         {
-            "id": 16,
+            "id": 15,
             "food": "Chicken Shawarma",
             "description": "Succulent chicken shawarma",
             "price": 10.99,
@@ -196,20 +188,12 @@
             "image": "https://www.licious.in/blog/wp-content/uploads/2022/06/shutterstock_1339636625-1.jpg"
           },
           {
-            "id": 17,
+            "id": 16,
             "food": "Greek Moussaka",
             "description": "Classic Greek moussaka casserole",
             "price": 13.99,
             "restaurant_id": 1,
             "image": "https://www.mygreekdish.com/wp-content/uploads/2013/05/Moussaka-recipe-Traditional-Greek-Moussaka-with-Eggplants.jpg"
-          },
-          {
-            "id": 18,
-            "food": "Chocolate Lava Cake",
-            "description": "Warm chocolate cake with molten center",
-            "price": 6.99,
-            "restaurant_id": 1,
-            "image": "https://www.allrecipes.com/thmb/J0D_WQYOGJs3PpuDqqconBr0efI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7272577-67dd531d7b4a48dbb254dcdaafa658d4.jpg"
           }
     ],
     
