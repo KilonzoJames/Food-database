@@ -180,12 +180,36 @@
             "image": "https://tinyurl.com/2p8t892u"
         },
         {
-            "id": 13,
+            "id": 16,
             "food": "Croissant",
             "description": "French flakiness! Golden-brown, buttery layers with a soft, airy interior. The perfect companion to your morning coffee.",
             "price": 3.75,
             "restaurant_id": 3,
             "image": "https://tinyurl.com/2hwu8j5b"
+        },
+        {
+            "id": 17,
+            "name": "Beef Stroganoff",
+            "description": "Creamy beef stroganoff with noodles",
+            "price": 16.99,
+            "restaurant_id": 8,
+            "image": "https://tinyurl.com/4svwmym3"
+        },
+        {
+            "id": 18,
+            "name": "Veggie Burger",
+            "description": "Vegetarian burger with plant-based patty",
+            "price": 9.99,
+            "restaurant_id": 4,
+            "image": "https://tinyurl.com/35bkv9d3"
+        },
+        {
+            "id": 20,
+            "name": "Fish and Chips",
+            "description": "Classic fish and chips with tartar sauce",
+            "price": 14.99,
+            "restaurant_id": 7,
+            "image": "https://tinyurl.com/j9um8w5a"
         }
     ],
     
