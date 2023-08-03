@@ -64,7 +64,7 @@
             "food": "Pizza Margherita",
             "description": "A slice of pure culinary bliss! Freshly baked thin crust, tangy tomato sauce, creamy mozzarella, and aromatic basil leaves.",
             "price": 10.99,
-            "restaurant_id": 1,
+            "restaurant_id": 2,
             "image": "https://tinyurl.com/46hrusj7"
         },
         {
@@ -72,7 +72,7 @@
             "food": "Chicken Tikka Masala",
             "description": "Exotic flavors of India! Tender, marinated chicken tikka immersed in a luscious, spiced tomato and cream sauce.",
             "price": 12.49,
-            "restaurant_id": 1,
+            "restaurant_id": 7,
             "image": "https://tinyurl.com/hj82mrh2"
         },
         {
@@ -80,7 +80,7 @@
             "food": "Steakhouse Burger",
             "description": "Carnivore's dream come true! Juicy, flame-grilled beef patty topped with smoky bacon, melted cheese, fresh veggies, and secret sauce.",
             "price": 8.99,
-            "restaurant_id": 1,
+            "restaurant_id": 4,
             "image": "https://tinyurl.com/mtvsf9et"
         },
         {
@@ -88,7 +88,7 @@
             "food": "Sushi Combo",
             "description": "A masterful journey through Japan! Exquisite assortment of fresh sashimi and flavorful sushi rolls. Each bite is a work of art!",
             "price": 22.99,
-            "restaurant_id": 1,
+            "restaurant_id": 3,
             "image": "https://tinyurl.com/bddcbahw"
         },
         {
@@ -96,7 +96,7 @@
             "food": "Enchiladas",
             "description": "A fiesta of flavors! Soft corn tortillas enveloping succulent shredded chicken, zesty enchilada sauce, and melted cheese.",
             "price": 9.95,
-            "restaurant_id": 1,
+            "restaurant_id": 6,
             "image": "https://tinyurl.com/yvw2as6c"
         },
         {
@@ -104,7 +104,7 @@
             "food": "Chicken Alfredo",
             "description": "Creamy indulgence! Tender chicken tossed with al dente fettuccine in a velvety, garlic-infused Alfredo sauce.",
             "price": 14.75,
-            "restaurant_id": 1,
+            "restaurant_id": 7,
             "image": "https://tinyurl.com/6a39s5dr"
         },
         {
@@ -120,7 +120,7 @@
             "food": "Pepperoni Pizza",
             "description": "Classic delight! Satisfy your cravings with gooey mozzarella, zesty tomato sauce, and generous pepperoni toppings on our crispy crust.",
             "price": 12.99,
-            "restaurant_id": 1,
+            "restaurant_id": 2,
             "image": "https://tinyurl.com/rr85pcyv"
         },
         {
@@ -128,7 +128,7 @@
             "food": "Quesadillas",
             "description": "Cheesy perfection! Flour tortillas filled with mouthwatering grilled chicken and oozy melted cheese. A Tex-Mex favorite!",
             "price": 7.99,
-            "restaurant_id": 1,
+            "restaurant_id": 6,
             "image": "https://tinyurl.com/3nh77jb6"
         },
         {
@@ -136,7 +136,7 @@
             "food": "Tempura Roll",
             "description": "Japanese delicacy! Crispy tempura shrimp and fresh veggies rolled in soft sushi rice and nori. A delightful fusion of flavors!",
             "price": 18.50,
-            "restaurant_id": 1,
+            "restaurant_id": 8,
             "image": "https://tinyurl.com/4nn2kamw"
         },
         {
@@ -144,7 +144,7 @@
             "food": "Pad Thai",
             "description": "Thai street food delight! Stir-fried rice noodles with succulent shrimp, tofu, crushed peanuts, and a burst of tangy flavors.",
             "price": 11.99,
-            "restaurant_id": 1,
+            "restaurant_id": 5,
             "image": "https://tinyurl.com/wds557bn"
         },
         {
@@ -152,7 +152,7 @@
             "food": "Grilled Shrimp",
             "description": "Seafood heaven! Succulent shrimp seasoned and grilled to smoky perfection, served with a zesty dipping sauce.",
             "price": 16.99,
-            "restaurant_id": 1,
+            "restaurant_id": 5,
             "image": "https://tinyurl.com/5n749tre"
         },
         {
@@ -168,7 +168,7 @@
             "food": "Greek Moussaka",
             "description": "Classic Greek moussaka casserole",
             "price": 13.99,
-            "restaurant_id": 1,
+            "restaurant_id": 6,
             "image": "https://tinyurl.com/bdh9u76z"
           },
           {
@@ -176,7 +176,7 @@
             "food": "Spanakopita",
             "description": "Mediterranean goodness! Flaky phyllo pastry filled with savory spinach, feta cheese, and aromatic herbs. A taste of Greece!",
             "price": 9.25,
-            "restaurant_id": 1,
+            "restaurant_id": 6,
             "image": "https://tinyurl.com/2p8t892u"
         },
         {
@@ -184,7 +184,7 @@
             "food": "Croissant",
             "description": "French flakiness! Golden-brown, buttery layers with a soft, airy interior. The perfect companion to your morning coffee.",
             "price": 3.75,
-            "restaurant_id": 1,
+            "restaurant_id": 3,
             "image": "https://tinyurl.com/2hwu8j5b"
         }
     ],
