@@ -5,56 +5,56 @@
             "name": "Saffron Indian Cuisine",
             "description": "Authentic North Indian cuisine",
             "contact": "555-123-4567",
-            "image": "https://thefridaylunch.files.wordpress.com/2010/11/img_4579.jpg"
+            "image": "https://tinyurl.com/yck6w8t7"
         },  
         { 
             "id": 2,
             "name": "Pizza Planet",
             "description": "Gourmet pizzas baked in a wood-fired oven",
             "contact": "555-987-6543",
-            "image": "https://assets.teenvogue.com/photos/5abce80b6d36ed4396878521/1:1/w_1278,h_1278,c_limit/pizza-planet-opening-in-disneyland.jpg"
+            "image": "https://tinyurl.com/5e847sth"
         },  
         { 
             "id": 3,
             "name": "Sushi Delight",
             "description": "Fresh and delicious sushi rolls",
             "contact": "555-111-2222",
-            "image": "https://www.otara.co.nz/wp-content/uploads/2020/04/Sushi-Delight-500x375.jpg"
+            "image": "https://tinyurl.com/3t996b7d"
         },  
         { 
             "id": 4,
             "name": "Burger Bistro",
             "description": "Gourmet burgers with a variety of toppings",
             "contact": "555-444-3333",
-            "image": "https://static.wixstatic.com/media/dfdfac_adc2a94434294af68c2635abc31ca9d2~mv2.png/v1/fill/w_302,h_194,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/dfdfac_adc2a94434294af68c2635abc31ca9d2~mv2.png"
+            "image": "https://tinyurl.com/5er72kes"
         },  
         { 
             "id": 5,
             "name": "Seafood Cove",
             "description": "Fresh seafood with a coastal vibe",
             "contact": "555-777-2222",
-            "image": "https://popmenucloud.com/cdn-cgi/image/width%3D1200%2Cheight%3D1200%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/uloidfmk/2f32a163-d2c8-4450-9018-6de62cd7ab91.jpg"
+            "image": "https://tinyurl.com/4ntav2nk"
         },  
         { 
             "id": 6,
             "name": "Taco Time",
             "description": "Authentic Mexican street tacos",
             "contact": "555-222-1111",
-            "image": "https://takesurvey.onl/wp-content/uploads/2019/11/Taco-Time-Survey-1.jpg"
+            "image": "https://tinyurl.com/yjahby9u"
         },  
         { 
             "id": 7,
             "name": "Pho Heaven",
             "description": "Traditional Vietnamese pho dishes",
             "contact": "555-222-3333",
-            "image": "https://media-cdn.tripadvisor.com/media/photo-s/06/46/60/44/entrance-of-pho-hao.jpg"
+            "image": "https://tinyurl.com/bdfasbba"
         },  
         { 
             "id": 8,
             "name": "Tandoori Nights",
             "description": "Delicious tandoori specialties",
             "contact": "555-444-5555",
-            "image": "https://i.ytimg.com/vi/QUjDCSwmkdg/maxresdefault.jpg"
+            "image": "https://tinyurl.com/yzv9kk3h"
         }
     ],
   
@@ -65,7 +65,7 @@
             "description": "A slice of pure culinary bliss! Freshly baked thin crust, tangy tomato sauce, creamy mozzarella, and aromatic basil leaves.",
             "price": 10.99,
             "restaurant_id": 1,
-            "image": "https://www.giallozafferano.com/images/228-22845/Neapolitan-pizza_450x300.jpg"
+            "image": "https://tinyurl.com/46hrusj7"
         },
         {
             "id": 2,
@@ -73,7 +73,7 @@
             "description": "Exotic flavors of India! Tender, marinated chicken tikka immersed in a luscious, spiced tomato and cream sauce.",
             "price": 12.49,
             "restaurant_id": 1,
-            "image": "https://www.seriouseats.com/thmb/DbQHUK2yNCALBnZE-H1M2AKLkok=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/chicken-tikka-masala-for-the-grill-recipe-hero-2_1-cb493f49e30140efbffec162d5f2d1d7.JPG"
+            "image": "https://tinyurl.com/hj82mrh2"
         },
         {
             "id": 3,
@@ -81,7 +81,7 @@
             "description": "Carnivore's dream come true! Juicy, flame-grilled beef patty topped with smoky bacon, melted cheese, fresh veggies, and secret sauce.",
             "price": 8.99,
             "restaurant_id": 1,
-            "image": "https://media.blueapron.com/recipes/27009/square_newsletter_images/1629222102-28-0030-9002/0920_2P19_SteakHouse-Burger_214_1_SQ_Web.jpg?quality=80&width=850&format=p.jpg"
+            "image": "https://tinyurl.com/mtvsf9et"
         },
         {
             "id": 4,
@@ -89,7 +89,7 @@
             "description": "A masterful journey through Japan! Exquisite assortment of fresh sashimi and flavorful sushi rolls. Each bite is a work of art!",
             "price": 22.99,
             "restaurant_id": 1,
-            "image": "https://sushibymatsu.com/wp-content/uploads/2017/12/sushi-sashimi-combo.jpg"
+            "image": "https://tinyurl.com/bddcbahw"
         },
         {
             "id": 5,
@@ -97,7 +97,7 @@
             "description": "A fiesta of flavors! Soft corn tortillas enveloping succulent shredded chicken, zesty enchilada sauce, and melted cheese.",
             "price": 9.95,
             "restaurant_id": 1,
-            "image": "https://www.eatingbirdfood.com/wp-content/uploads/2020/01/healthy-chicken-enchiladas-2.jpg"
+            "image": "https://tinyurl.com/yvw2as6c"
         },
         {
             "id": 6,
@@ -105,7 +105,7 @@
             "description": "Creamy indulgence! Tender chicken tossed with al dente fettuccine in a velvety, garlic-infused Alfredo sauce.",
             "price": 14.75,
             "restaurant_id": 1,
-            "image": "https://www.budgetbytes.com/wp-content/uploads/2022/07/Chicken-Alfredo-bowl.jpg"
+            "image": "https://tinyurl.com/6a39s5dr"
         },
         {
             "id": 7,
@@ -113,7 +113,7 @@
             "description": "A taste of India's finest! Succulent pieces of chicken cooked in a rich, aromatic tomato and butter-based gravy.",
             "price": 13.99,
             "restaurant_id": 1,
-            "image": "https://masalaandchai.com/wp-content/uploads/2022/03/Butter-Chicken-500x375.jpg"
+            "image": "https://tinyurl.com/hu64b9n2"
         },
         {
             "id": 8,
@@ -121,7 +121,7 @@
             "description": "Classic delight! Satisfy your cravings with gooey mozzarella, zesty tomato sauce, and generous pepperoni toppings on our crispy crust.",
             "price": 12.99,
             "restaurant_id": 1,
-            "image": "https://sipbitego.com/wp-content/uploads/2021/08/Pepperoni-Pizza-Recipe-Sip-Bite-Go.jpg"
+            "image": "https://tinyurl.com/rr85pcyv"
         },
         {
             "id": 9,
@@ -129,7 +129,7 @@
             "description": "Cheesy perfection! Flour tortillas filled with mouthwatering grilled chicken and oozy melted cheese. A Tex-Mex favorite!",
             "price": 7.99,
             "restaurant_id": 1,
-            "image": "https://recipetineats.com/wp-content/uploads/2018/06/Quesadillas_4.jpg"
+            "image": "https://tinyurl.com/3nh77jb6"
         },
         {
             "id": 10,
@@ -137,7 +137,7 @@
             "description": "Japanese delicacy! Crispy tempura shrimp and fresh veggies rolled in soft sushi rice and nori. A delightful fusion of flavors!",
             "price": 18.50,
             "restaurant_id": 1,
-            "image": "https://norecipes.com/wp-content/uploads/2022/02/shrimp-tempura-roll-004.jpg"
+            "image": "https://tinyurl.com/4nn2kamw"
         },
         {
             "id": 11,
@@ -145,7 +145,7 @@
             "description": "Thai street food delight! Stir-fried rice noodles with succulent shrimp, tofu, crushed peanuts, and a burst of tangy flavors.",
             "price": 11.99,
             "restaurant_id": 1,
-            "image": "https://tastesbetterfromscratch.com/wp-content/uploads/2018/08/Pad-Thai-Web-7.jpg"
+            "image": "https://tinyurl.com/wds557bn"
         },
         {
             "id": 12,
@@ -161,7 +161,7 @@
             "description": "Succulent chicken shawarma",
             "price": 10.99,
             "restaurant_id": 1,
-            "image": "https://www.licious.in/blog/wp-content/uploads/2022/06/shutterstock_1339636625-1.jpg"
+            "image": "https://tinyurl.com/mryjam8z"
           },
           {
             "id": 14,
@@ -169,8 +169,24 @@
             "description": "Classic Greek moussaka casserole",
             "price": 13.99,
             "restaurant_id": 1,
-            "image": "https://www.mygreekdish.com/wp-content/uploads/2013/05/Moussaka-recipe-Traditional-Greek-Moussaka-with-Eggplants.jpg"
-          }
+            "image": "https://tinyurl.com/bdh9u76z"
+          },
+          {
+            "id": 15,
+            "food": "Spanakopita",
+            "description": "Mediterranean goodness! Flaky phyllo pastry filled with savory spinach, feta cheese, and aromatic herbs. A taste of Greece!",
+            "price": 9.25,
+            "restaurant_id": 1,
+            "image": "https://tinyurl.com/2p8t892u"
+        },
+        {
+            "id": 13,
+            "food": "Croissant",
+            "description": "French flakiness! Golden-brown, buttery layers with a soft, airy interior. The perfect companion to your morning coffee.",
+            "price": 3.75,
+            "restaurant_id": 1,
+            "image": "https://tinyurl.com/2hwu8j5b"
+        }
     ],
     
     "orders": [
